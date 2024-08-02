@@ -1,0 +1,6 @@
+transformers
+Flask
+flask-cors
+tensorflow
+tf-nightly
+tf-keras
